@@ -4,10 +4,11 @@
     git-repo: "https://github.com/d3fkon/repozx1"
     approval: 
       approved-by: "d3fkon"
-      approval-date: 1564465498904
+      approval-date: 1564465553752
   job: 
     job-name: "d3fkonxrepozx1"
     config: 
       pre-unit-test: "yes"
       post-unit-test: "no"
       dev: "no"
+      prod: "yes"
